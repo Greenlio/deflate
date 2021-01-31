@@ -31,3 +31,4 @@ A modmail with rich features.
 ## About
 
 **deflate** by Greenlio, a JS modmail with rich features.
+This is a fork of **discord-modmail**.
